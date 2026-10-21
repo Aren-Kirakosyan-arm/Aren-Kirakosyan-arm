@@ -24,61 +24,54 @@ I'm a web developer focused on building responsive websites and practical web ap
 - 🎨 Responsive layouts with **HTML5** and **CSS3**
 - 🗄️ Database-driven applications using **MySQL / PDO**
 - 🔐 Authentication, sessions, validation, and secure password handling
-- 🧩 Building real-world projects such as CRM systems, online stores, and marketplace concepts
+- 🧩 Building practical projects such as CRM systems, online stores, and marketplace concepts
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,jquery,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,jquery,git,github,vscode" alt="PHP, MySQL, JavaScript, HTML, CSS, Bootstrap, jQuery, Git, GitHub, VS Code" />
 </p>
 
 ## 🚀 Featured Projects
 
-### 📊 WebAgency CRM
-**PHP · MySQL · JavaScript · HTML · CSS**
+| Project | Stack | Focus |
+|---|---|---|
+| 📊 **[WebAgency CRM](https://github.com/Aren-Kirakosyan-arm/webagency-crm)** | PHP · MySQL · PDO · JavaScript | CRM, authentication, clients, projects & tasks |
+| 🛒 **[Online Store](https://github.com/Aren-Kirakosyan-arm/online-store)** | HTML · CSS · JavaScript | E-commerce UI, catalog & cart |
+| 🌸 **[Delivery-Flowers](https://github.com/Aren-Kirakosyan-arm/Delivery-Flowers)** | PHP · MySQL · JavaScript | Marketplace architecture & orders |
 
-A lightweight CRM for managing clients, projects, budgets, deadlines, and tasks.
+### 📊 WebAgency CRM
+
+A database-driven CRM for managing clients, projects, budgets, deadlines, and tasks.
 
 **Highlights:**
 - User registration and authentication
 - Password hashing and CSRF protection
-- Client management
-- Project management with budgets, status, progress, and deadlines
+- Client and project management
+- Budgets, progress, statuses, and deadlines
 - Task management with priorities and due dates
-- MySQL PDO prepared statements
-
-🔗 [View repository](https://github.com/Aren-Kirakosyan-arm/webagency-crm)
-
----
+- MySQL with PDO prepared statements
 
 ### 🛒 Online Store
-**HTML · CSS · JavaScript · PHP · MySQL**
 
-An e-commerce project focused on product browsing, shopping-cart functionality, and a modern storefront interface.
-
-🔗 [View repository](https://github.com/Aren-Kirakosyan-arm/online-store)
-
----
+A frontend e-commerce project focused on product browsing, shopping-cart interactions, responsive layouts, and storefront UI/UX.
 
 ### 🌸 Delivery-Flowers
-**PHP · MySQL · JavaScript · HTML · CSS**
 
-A flower-delivery marketplace concept designed to connect customers with flower shops and products.
-
-🔗 [View repository](https://github.com/Aren-Kirakosyan-arm/Delivery-Flowers)
+A marketplace concept for discovering flower shops, browsing products, and organizing flower delivery with PHP/MySQL architecture.
 
 ## 🎯 Current Focus
 
 - Building stronger full-stack PHP applications
 - Improving frontend UI/UX and responsive design
-- Writing cleaner, more maintainable code
+- Writing cleaner and more maintainable code
 - Improving project documentation and development workflow
 
 ## 📈 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aren-Kirakosyan-arm&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aren-Kirakosyan-arm&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aren-Kirakosyan-arm&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aren-Kirakosyan-arm&layout=compact&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 ## 🤝 Let's Connect
